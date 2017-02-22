@@ -1,0 +1,32 @@
+section_title: "Experience"
+work_experience:
+- company: "UPMC"
+  job_title: "Information Services Division Rotational Program"
+  responsibilites: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis saepe natus ipsam error aliquid cupiditate doloremque nihil est eos odio, incidunt non officia dicta omnis pariatur officiis cumque neque. Et."
+  responsibilites: "<p>The Information Services Division Rotation (ISDR) Program provides an unparalleled opportunity for the best and brightest recent college graduates to gain diverse experience across the various areas of UPMC. This program consists of 4 rotations through the various areas of UPMC over the span of 2 years. During this time, I will be developing my leadership abilities, while expanding and improving technical skills.</p>
+  
+  <h4 class='indent_left--1'>Cloud Operations - Rotation 4</h4>
+    <p class='indent_left--2'>Starting in January 2017</p>
+
+  <h4 class='indent_left--1'>Information Security Group - Rotation 3</h4>
+    <p class='indent_left--2'>During my time with the ISG I worked with the Assurance team in daily operations to understand the work. Based on this work, I developed tools and modules using Python and PowerShell to automate their daily workflows and augment the existing and incoming tools.</p>
+  
+  <h4 class='indent_left--1'>Health Plan Consumer Technology - Rotation 2</h4>
+    <p class='indent_left--2'>Utilizing my front end technology skills, I assisted with the refactoring of 10+ years of legacy CSS into modular and reusable SASS. I led the initial development of a scalable, client-customizable, multi-tenancy Angular 2 application to replace an existing ASP.NET Web Forms application.</p>
+  
+  <h4 class='indent_left--1'>UNIX Services - Rotation 1</h4>
+    <p class='indent_left--2'>I worked day to day as a systems engineer on the UNIX team. Alongside these daily responsibilities, I was one of two primary engineers on our containerization infrastructure at UPMC and was responsible for the implementation of a container security solution and an open source PaaS.</p>
+  "
+  time_period: "July 2015 - Present"
+- company: "UPMC"
+  job_title: "Software Engineer"
+  responsibilites: "<p>Operating as a full-stack engineer, I developed Java based REST APIs that were consumed by other development teams and a multitude of internal applications. Upon the departure of a senior engineer, I utilized my front-end skills to provide a prototype of a hybrid mobile application development utilizing HTML 5, AngularJS, and SASS for a new clinical marketing project"
+  time_period: "May 2014 - July 2015"
+- company: "Slippery Rock University of Pennsylvania"
+  job_title: "Undergraduate Researcher"
+  responsibilites: ""
+  time_period: "January 2013 - May 2015"
+- company: "Slippery Rock University of Pennsylvania"
+  job_title: "Peer Tutor"
+  responsibilites: ""
+  time_period: "January 2013 - May 2015"

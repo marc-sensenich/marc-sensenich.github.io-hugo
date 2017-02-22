@@ -1,0 +1,23 @@
+section_title: "Education"
+schools:
+- name: "University of Pittsburgh"
+  degree: "Master of Information Science"
+  major: "Human-centered Computing"
+  graduation: "Expected May 2018"
+  link:
+    href: "http://www.ischool.pitt.edu/ist/degrees/specializations/hcc.php"
+    title: "University of Pittsburgh Human-centered Computing specialization"
+- name: "Slippery Rock University of Pennsylvania"
+  degree: "Bachelor of Science"
+  major: "Computer Science"
+  graduation: "Graduated May 2015"
+  link:
+    href: "http://www.sru.edu/academics/colleges-and-departments/ches/departments/computer-science"
+    title: "Slippery Rock University Computer Science Department"
+- name: "Butler County Community College"
+  degree: "Associate of Science"
+  major: "Business Administration"
+  graduation: "Graduated May 2012"
+  link:
+    href: "http://www.bc3.edu/programs-classes/degrees/business/admin.html"
+    title: "Butler County Community College Business Administration Program"

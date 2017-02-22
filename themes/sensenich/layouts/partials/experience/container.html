@@ -1,0 +1,11 @@
+<section class="mas-section mas-section--experience" id={{ .section_title }}>
+    <header class="mas-section__header">
+        <h2>
+            <span class="mas-section__header-text">{{ .section_title }}</span>
+        </h2>
+    </header>
+    {{ range .work_experience }}
+        {{ partial "experience/section.html" . }}
+    {{ end }}
+</section>
+

@@ -1,0 +1,14 @@
+<section class="mas-section mas-section--interests" id="{{ .section_title }}">
+    <header class="mas-section__header">
+        <h2>
+            <span class="mas-section__header-text">{{ .section_title }}</span>
+        </h2>
+    </header>
+    <article class="mas-subsection">
+        <ul>
+            {{ range .list }}
+                {{ partial "interests/section.html" . }}
+            {{ end }}   
+        </ul>
+    </article>
+</section>

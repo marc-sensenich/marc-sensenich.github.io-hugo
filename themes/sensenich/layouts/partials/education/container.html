@@ -1,0 +1,10 @@
+<section class="mas-section mas-section--education" id="{{ .section_title }}">
+    <header class="mas-section__header">
+        <h2>
+            <span class="mas-section__header-text">{{ .section_title }}</span>
+        </h2>
+    </header>
+    {{ range .schools }}
+        {{ partial "education/section.html" . }}
+    {{ end }}
+</section>

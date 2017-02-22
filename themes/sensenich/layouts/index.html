@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head/index.html" }}
+<body id="body" >
+    {{ partial "layout/header.html" . }}
+
+    <div class="mas-content" id="main-content">
+        {{ partial "experience/container.html" .Site.Data.experience }}       
+        {{ partial "education/container.html" .Site.Data.education }}      
+        {{ partial "interests/container.html" .Site.Data.interests }}      
+    </div>
+    
+    {{ partial "layout/footer.html" . }}
+    {{ partial "scripts.html" }}
+</body>
+</html>

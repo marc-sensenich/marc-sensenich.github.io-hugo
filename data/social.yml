@@ -1,0 +1,13 @@
+accounts:
+- link: "https://www.linkedin.com/in/marc-sensenich"
+  description: "View Marc Sensenich on Linkedin"
+  logo: "linkedin.png"
+  title: "LinkedIn"
+- link: "https://github.com/marc-sensenich"
+  description: "View Marc Sensenich on GitHub"
+  logo: "github.png"
+  title: "GitHub"
+- link: "http://www.marc-sensenich.com/blog"
+  description: "View Marc Sensenich's blog'"
+  logo: "blog.png"
+  title: "My blog"
